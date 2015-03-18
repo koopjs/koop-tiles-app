@@ -1,0 +1,29 @@
+{
+  "name": "koop-tiles-app",
+  "version": "1.0.0",
+  "description": "A sample application that shows how to create an app using koop with the Koop-tile-plugin",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Chris Helm",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com:koopjs/koop-tiles-app.git"
+  },
+  "dependencies": {
+    "config": "~1.9.0",
+    "cors": "^2.5.2",
+    "ejs": "^1.0.0",
+    "express": "4.10.1",
+    "koop": "~1.1.0",
+    "koop-agol": "~0.1.14",
+    "koop-ckan": "~0.0.1",
+    "koop-gist": "~0.0.1",
+    "koop-github": "~0.1.2",
+    "koop-pgcache": "0.0.1",
+    "koop-socrata": "~0.0.1",
+    "koop-tile-plugin": "^1.0.0"
+  }
+}
