@@ -13,17 +13,17 @@
     "url": "https://github.com:koopjs/koop-tiles-app.git"
   },
   "dependencies": {
-    "config": "~1.9.0",
+    "config": "~1.26.2",
     "cors": "^2.5.2",
-    "ejs": "^1.0.0",
-    "express": "4.10.1",
-    "koop": "~2.0.0",
-    "koop-agol": "~0.1.14",
+    "ejs": "^2.5.7",
+    "express": "4.15.4",
+    "koop": "~3.5.1",
+    "koop-agol": "~3.14.4",
     "koop-ckan": "~0.0.1",
-    "koop-gist": "~0.0.1",
-    "koop-github": "~0.1.2",
-    "koop-pgcache": "0.0.1",
-    "koop-socrata": "~0.0.1",
+    "koop-gist": "~2.0.0",
+    "koop-github": "~2.0.0",
+    "koop-pgcache": "1.7.0",
+    "koop-socrata": "~1.0.4",
     "koop-tile-plugin": "^1.0.0"
   }
 }
